@@ -1,1 +1,1 @@
-# skripsi
+# project python untuk skripsi
